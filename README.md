@@ -1,6 +1,6 @@
 # Temperature converter app
 Excited to announce the creation of a new temperature converter app in Python, utilizing Google Colab. 
-This project aims to deliver an intuitive and efficient solution for converting temperatures between Celsius, Fahrenheit, and Kelvin.
+This project aims to deliver an intuitive and efficient solution for converting temperatures between **Celsius**, **Fahrenheit**, and **Kelvin**.
 It provides greater flexibility by allowing users to input and convert between any of the three temperature scales.
 It also includes good error handling for both invalid numeric inputs and conversion choices.
 
